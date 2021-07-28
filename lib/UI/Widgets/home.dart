@@ -160,7 +160,8 @@ class Home extends StatelessWidget {
               Column(
                 children: [
                   Container(
-                    margin: EdgeInsets.only(top: 700, left: 75),
+                    margin: EdgeInsets.only(
+                      top: 700, left: 75),
                     child: Text("Don't Have Any Account? Create new",
                         style: TextStyle(
                           fontSize: 15,
